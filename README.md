@@ -8,17 +8,16 @@ Hello World
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-## Project Title
+# Project Title
 
 **Hello World Sample** 
 
-## Description
+# **Description**
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
 
-## How to Run Program 
 
-Explain here how you would run the program and what files need to be available. 
+# **How to Run Program** 
+ 
 ```text
 Hello_World/
 └── 
@@ -29,8 +28,8 @@ Hello_World/
    
 ```
 
-## Files Used 
+## **Files Used** 
 
-## Versioning
+## **Versioning**
 
-Nothing to change
+**Nothing to change**
